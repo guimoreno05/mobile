@@ -1,6 +1,6 @@
-<resources>
+﻿<resources>
 
-    <string name="app_name">Receber Mensagem</string>
+    <string name="app_name">UFGNotify</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Config.</string>
     <string name="title_activity_main">Notificações Recebidas</string>
